@@ -1,0 +1,39 @@
+! Base16 kaodam
+! Scheme: Saul Howard (http://saulhoward.com)
+
+#define base00 #151515
+#define base01 #252525
+#define base02 #393939
+#define base03 #464646
+#define base04 #898989
+#define base05 #c2c2c2
+#define base06 #eeeee9
+#define base07 #fcfcff
+#define base08 #eeeee9
+#define base09 #898989
+#define base0A #fcfcff
+#define base0B #c2c2c2
+#define base0C #464646
+#define base0D #eeeee9
+#define base0E #c2c2c2
+#define base0F #fcfcff
+
+*.foreground:   base05
+*.background:   base00
+*.cursorColor:  base05
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+*.color8:       base03
+*.color9:       base09
+*.color10:      base01
+*.color11:      base02
+*.color12:      base04
+*.color13:      base06
+*.color14:      base0F
+*.color15:      base07

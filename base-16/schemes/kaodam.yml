@@ -1,0 +1,19 @@
+# kaodam - a monochrome scheme for the Base16 Builder (https://github.com/chriskempson/base16-builder)
+scheme: "kaodam"
+author: "Saul Howard (http://saulhoward.com)"
+base00: "151515" #  ----
+base01: "252525" #  ---
+base02: "393939" #  --
+base03: "464646" #  -
+base04: "898989" #  +
+base05: "c2c2c2" #  ++
+base06: "eeeee9" #  +++
+base07: "fcfcff" #  ++++
+base08: "eeeee9" #	red
+base09: "898989" #	orange
+base0A: "fcfcff" #	yellow
+base0B: "c2c2c2" #	green
+base0C: "464646" #	aqua
+base0D: "eeeee9" #	blue
+base0E: "c2c2c2" #	purple
+base0F: "fcfcff" #	brown
